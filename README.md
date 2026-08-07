@@ -12,7 +12,8 @@ The objective of this project is to analyze Walmart sales transactions and answe
 
 ## 🚀 Project Workflow
 
-![Project Workflow](images/project_workflow.png)
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d4c515bd-e973-4254-8b5d-a8a2f409a7a7" />
+
 
 ---
 
