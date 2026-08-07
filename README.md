@@ -62,7 +62,9 @@ Walmart_Sales_DataAnalysis/
 │   └── Walmart_SQL_Business_Problems.pdf
 │
 └── images/
-    └── walmart_project_workflow.png
+    ├── project_overview.jpg
+    ├── walmart_project_workflow.png
+    └── walmart_workflow.png
 ```
 
 ---
