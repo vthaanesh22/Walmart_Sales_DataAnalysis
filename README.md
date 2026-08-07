@@ -130,3 +130,45 @@ The complete list of business questions and their objectives is available in:
 - `docs/Walmart_SQL_Business_Problems.pdf`
 
 ---
+
+
+## 📊 Results and Insights
+
+The analysis generated several business insights from the Walmart sales dataset:
+
+- Identified the most preferred payment methods across all branches.
+- Determined the highest-rated product category for each branch.
+- Found the busiest shopping day and sales shift for every branch.
+- Ranked product categories based on total profit.
+- Compared branch revenue between 2025 and 2026 to identify performance changes.
+- Ranked branches based on total revenue.
+- Identified the best-selling product categories by branch.
+- Built an Executive Dashboard summarizing key business KPIs.
+
+---
+
+## 🚀 Future Enhancements
+
+Possible improvements for this project include:
+
+- Develop an interactive Power BI or Tableau dashboard.
+- Automate data ingestion using scheduled ETL pipelines.
+- Integrate real-time sales data for continuous monitoring.
+- Build sales forecasting models using Machine Learning.
+- Deploy the project as a web application using Flask or Streamlit.
+- Connect the project to cloud databases such as AWS RDS or Azure SQL.
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**. 
+
+---
+
+## 🙏 Acknowledgments
+
+- Data Source: Kaggle’s Walmart Sales Dataset
+- Inspiration: Walmart’s business case studies on sales and supply chain optimization.
+
+---
